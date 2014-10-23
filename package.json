@@ -1,0 +1,43 @@
+{
+  "name": "nodebb-theme-titancity",
+  "version": "0.0.1",
+  "description": "Titan City theme for NodeBB",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https:///nodebb-theme-titancity"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "themes",
+    "bootstrap",
+    "titancity"
+  ],
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "David Bolack",
+      "email": "dbolack@missingworldsmedia.com",
+      "url": "http://www.titancity.com"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NodeBB/nodebb-theme-titancity/issues"
+  }
+}

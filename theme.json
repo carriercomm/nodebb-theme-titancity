@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-theme-titancity",
+    "name": "NodeBB Titan City theme",
+    "description": "Titan City Theme for NodeBB",
+    "url": "https://github.com/NodeBB/nodebb-theme-titancity",
+    "screenshot": "screenshot.png",
+    "templates": "templates"
+}
